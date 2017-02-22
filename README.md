@@ -12,5 +12,9 @@
 -The result will write a csv file which is in the format mentioned by kaggle for the submission purpose.
 
 # Requirements:
--Python3.4
--Python Modules/Packages: (pandas,scipy,sklearn,cv2,os,glob)
+ - Python3.4
+ - pandas
+ - scipy
+ - sklearn
+ - cv2
+ - glob
