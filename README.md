@@ -4,7 +4,11 @@
 -The data is provided by kaggle. (ref: https://www.kaggle.com/c/leaf-classification/data)
 
 -train.csv and test.csv contains features of 99 varieties of leaves
--Images folder contains the respective images with the id's matching the  image names. 
+-Images folder contains the respective images with the id's matching the  image file names. 
+
+# Problem Statement:
+-The taining data is to be trained to by classifier to classify the test data and give the probabilities for each data point of being 
+in a particular class.
 
 # PROCESS:
 -The given data has various features in a csv file of that of leaves along with the images of the leaves.
