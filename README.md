@@ -18,3 +18,6 @@
  - sklearn
  - cv2
  - glob
+ 
+ ### Output
+ - Result will be saved as File  ``` fourthSubmission.csv ```
