@@ -10,3 +10,7 @@
 -The given data has various features in a csv file of that of leaves along with the images of the leaves.
 -Features for the image files are extracted to later combine with the other given features.
 -The result will write a csv file which is in the format mentioned by kaggle for the submission purpose.
+
+# Requirements:
+-Python3.4
+-Python Modules/Packages: (pandas,scipy,sklearn,cv2,os,glob)
