@@ -7,7 +7,7 @@
 -Images folder contains the respective images with the id's matching the  image file names. 
 
 # Problem Statement:
--The taining data is to be trained to by classifier to classify the test data and give the probabilities for each data point of being 
+-The taining data is to be trained by classifier to classify the test data and give the probabilities for each data point of being 
 in a particular class.
 
 # PROCESS:
