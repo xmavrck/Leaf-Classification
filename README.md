@@ -19,5 +19,5 @@
  - cv2
  - glob
  
- ### Output
+### Output
  - Result will be saved as File  ``` fourthSubmission.csv ```
